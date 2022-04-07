@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(15, 15, 15);
+}
+.container {
+  margin: 1.5em;
+  text-align: center;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  color:silver;
+}
+.country-name {
+  background-color: rgb(223, 222, 222);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.search-btn {
+  border: 2px solid gray;
+  border-radius: 7px;
+  background-color: rgb(46, 44, 44);
+  color: rgb(253, 251, 251);
+}
+.loading {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  color:silver;
+}
+.errors {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  color:silver;
+}
+.data {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  color:silver;
+}
+.result-container {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  color:silver;
+  text-align:center ;
+}
+.result {
+  margin-top: 1em;
+}
